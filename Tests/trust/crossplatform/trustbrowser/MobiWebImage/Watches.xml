@@ -1,0 +1,4 @@
+﻿<Properties>
+  <WatchEntry0 value="(LCase(strTextBeforeClick)  &lt;&gt;  LCase(strTextAfterClick))" />
+  <WatchEntry1 value="(Lcase(strIDAfterClick) &lt;&gt; Lcase(strIDBeforeClick))" />
+</Properties>

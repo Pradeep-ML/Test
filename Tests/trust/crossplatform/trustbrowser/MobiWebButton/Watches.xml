@@ -1,0 +1,5 @@
+﻿<Properties>
+  <WatchEntry0 value="intX" />
+  <WatchEntry1 value="intY" />
+  <WatchEntry2 value="strConnectionString" />
+</Properties>

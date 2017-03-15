@@ -1,0 +1,4 @@
+﻿<Properties>
+  <WatchEntry0 value="objMobiDevice.GetROProperty(&quot;viewerscale&quot;)" />
+  <WatchEntry1 value="intScale" />
+</Properties>

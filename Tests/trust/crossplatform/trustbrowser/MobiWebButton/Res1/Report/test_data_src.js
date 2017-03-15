@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'D:\\Users\\pradeepk\\Desktop\\MobileLabsAutomationFramework\\MobileLabsAutomationFramework\\Tests\\trust\\crossplatform\\trustbrowser\\MobiWebButton\\Res1',namePairs:[]}]};
