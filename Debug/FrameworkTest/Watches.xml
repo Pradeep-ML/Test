@@ -1,6 +1,0 @@
-﻿<Properties>
-  <WatchEntry0 value="LCase(objWorksheet.Cells(1,i).Value)" />
-  <WatchEntry1 value="i" />
-  <WatchEntry2 value="intColCount" />
-  <WatchEntry3 value="objFile.Attributes" />
-</Properties>

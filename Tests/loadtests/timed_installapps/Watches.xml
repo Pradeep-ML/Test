@@ -1,7 +1,0 @@
-﻿<Properties>
-  <WatchEntry0 value="strDeviceName" />
-  <WatchEntry1 value="arrApp(j)" />
-  <WatchEntry2 value="intCount" />
-  <WatchEntry3 value="blnDeviceInUse" />
-  <WatchEntry4 value="Right(strIP, 2)" />
-</Properties>
